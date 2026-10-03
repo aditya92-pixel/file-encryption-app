@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+build/
+dist/
+*.spec
+*.encrypt
+*.decrypted
+*.zip
+.enc_tmp*
+.dec_tmp*
